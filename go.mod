@@ -3,7 +3,6 @@ module github.com/LastDayWithLess/test
 go 1.25.0
 
 require (
-	github.com/LastDayWithLess/test v0.0.0-20260529103737-4b365e5a7d18
 	github.com/gin-gonic/gin v1.12.0
 	google.golang.org/protobuf v1.36.10
 )
