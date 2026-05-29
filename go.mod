@@ -1,4 +1,4 @@
-module test_proto
+module github.com/LastDayWithLess/test
 
 go 1.25.0
 
